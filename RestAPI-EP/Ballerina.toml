@@ -1,0 +1,8 @@
+[package]
+org = "takudzwa_kucherera"
+name = "RestAPI_EP"
+version = "0.1.0"
+distribution = "2201.2.1"
+
+[build-options]
+observabilityIncluded = true
